@@ -18,7 +18,7 @@ apt-get update -y
 apt-get upgrade -y
 ```
 ```bash
-wget https://raw.githubusercontent.com/SSH-PLUS/master/Plus && chmod +x Plus* && ./Plus*
+wget https://raw.githubusercontent.com/InfiniteNet/SSH-PLUS/master/Plus && chmod +x Plus* && ./Plus*
 ```
 DATA: Las dependencias faltantes se instalarán automáticamente
 
