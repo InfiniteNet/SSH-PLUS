@@ -2,7 +2,7 @@
 * UPDATE 09/08/2021 - Proyecto Descontinuado
 * SSHPLUS MANAGER (Final Versión 38)
 ```
-![logo](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/blob/master/Imagenes/SSHPLUS_MANAGER.png)
+![logo](https://github.com/InfiniteNet/SSH-PLUS/blob/master/Imagenes/SSHPLUS_MANAGER.png)
 
 # SSHPLUS MANAGER
 Es un script con un conjunto de características y herramientas adecuadas para 
@@ -18,7 +18,7 @@ apt-get update -y
 apt-get upgrade -y
 ```
 ```bash
-wget https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/master/Plus && chmod +x Plus* && ./Plus*
+wget https://raw.githubusercontent.com/SSH-PLUS/master/Plus && chmod +x Plus* && ./Plus*
 ```
 DATA: Las dependencias faltantes se instalarán automáticamente
 
@@ -45,22 +45,16 @@ DATA: Las dependencias faltantes se instalarán automáticamente
 * Idioma por defecto es el portugués
 
 ## :book: Optional Utilities
-1. Reinstalar el Scripts ejecutar en consola el comando (sshplus) [Ver Imagen](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/blob/master/Imagenes/Reinstall_SSHPlus-Manager.png)
-2. Skin menú adaptado formato ADM ejecute en consola el comando (menuV3) [Ver Imagen](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/blob/master/Imagenes/Update_menuV3.png)
-3. Skin menú adaptado ejecute en consola el comando (menuV2) [Ver Imagen](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/blob/master/Imagenes/Update_menuV2.png)
-4. Restablecer el menú original ejecute en consola el comando (menuV1) [Ver Imagen](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/blob/master/Imagenes/SSHPLUS_MANAGER.png)
-5. Descargar Código Fuente [Donwload](https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/master/Install/Source-Code-SSHPlus.zip)
+1. Reinstalar el Scripts ejecutar en consola el comando (sshplus) [Ver Imagen](https://github.com/SSH-PLUS/blob/master/Imagenes/Reinstall_SSHPlus-Manager.png)
+2. Skin menú adaptado formato ADM ejecute en consola el comando (menuV3) [Ver Imagen](https://github.com/SSH-PLUS/blob/master/Imagenes/Update_menuV3.png)
+3. Skin menú adaptado ejecute en consola el comando (menuV2) [Ver Imagen](https://github.com/SSH-PLUS/blob/master/Imagenes/Update_menuV2.png)
+4. Restablecer el menú original ejecute en consola el comando (menuV1) [Ver Imagen](https://github.com/SSH-PLUS/blob/master/Imagenes/SSHPLUS_MANAGER.png)
+5. Descargar Código Fuente [Donwload](https://raw.githubusercontent.com/SSH-PLUS/master/Install/Source-Code-SSHPlus.zip)
 
 ## :book: Installation Utilities
-1. [Generador de Key Sshplus Manager](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/tree/master/Install/Generador)
-2. [Script Oficial Painel Revenda Ssh Versao 20](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/tree/master/Install/Panel_v20)
-3. [Multi-Instalador Plus](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/tree/master/Install/Multi-Instalador)
-4. [Painel Revenda SSH (Versiones)](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/tree/master/Install/Panel_Web)
-5. [Tcp-Tweaker-1.0 (Tcp-Speed)](https://github.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/tree/master/Install/TCP-Speed)
-
-## :octocat: Credits
-1. [@crazy_vpn](https://t.me/crazy_vpn) - Developer of SSHPlus Manager
-2. [illuminati Dev Team](https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ) - Contributor Update 
-```
-☆ https://t.me/AAAAAEXQOSyIpN2JZ0ehUQ [  ⃘⃤꙰✰ ] ☆
+1. [Generador de Key Sshplus Manager](https://github.com/SSH-PLUS/tree/master/Install/Generador)
+2. [Script Oficial Painel Revenda Ssh Versao 20](https://github.com/SSH-PLUS/tree/master/Install/Panel_v20)
+3. [Multi-Instalador Plus](https://github.com/SSH-PLUS/tree/master/Install/Multi-Instalador)
+4. [Painel Revenda SSH (Versiones)](https://github.com/SSH-PLUS/tree/master/Install/Panel_Web)
+5. [Tcp-Tweaker-1.0 (Tcp-Speed)](https://github.com/SSH-PLUS/tree/master/Install/TCP-Speed)
 ```
